@@ -1,1 +1,1 @@
-# VoidShell
+**>VOIDSHELL DOCUMENT: ‘README.md’ [LAST EDIT: 12/29/25]**
